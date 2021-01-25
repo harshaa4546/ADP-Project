@@ -1,0 +1,95 @@
+export const data = [
+  {
+    userId: "A101",
+    age: 50,
+    dob: new Date(),
+  },
+  {
+    userId: "A102",
+    age: 10,
+    dob: new Date(),
+    type: "date",
+  },
+  {
+    userId: "A103",
+    age: 30,
+    dob: new Date(),
+  },
+  {
+    userId: "A104",
+    age: 80,
+    dob: new Date(),
+  },
+  {
+    userId: "A101",
+    age: 50,
+    dob: new Date(),
+  },
+  {
+    userId: "A102",
+    age: 10,
+    dob: new Date(),
+    type: "date",
+  },
+  {
+    userId: "A103",
+    age: 30,
+    dob: new Date(),
+    active: "Yes",
+  },
+  {
+    userId: "A104",
+    age: 80,
+    dob: new Date(),
+    active: "Yes",
+  },
+  {
+    userId: "A101",
+    age: 50,
+    dob: new Date(),
+    active: "Yes",
+  },
+  {
+    userId: "A102",
+    age: 10,
+    dob: new Date(),
+    type: "date",
+    active: "Yes",
+  },
+  {
+    userId: "A103",
+    age: 30,
+    dob: new Date(),
+    active: "Yes",
+  },
+  {
+    userId: "A104",
+    age: 80,
+    dob: new Date(),
+    active: "Yes",
+  },
+  ,
+  {
+    userId: "A101",
+    age: 50,
+    dob: new Date(),
+    active: "Yes",
+  },
+  {
+    userId: "A102",
+    age: 10,
+    dob: new Date(),
+    type: "date",
+    active: "Yes",
+  },
+  {
+    userId: "A103",
+    age: 30,
+    dob: new Date(),
+  },
+  {
+    userId: "A104",
+    age: 80,
+    dob: new Date(),
+  },
+];
